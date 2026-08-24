@@ -124,7 +124,7 @@ Patients can view their appointments in one place, including:
 - Reason for visit
 - Current appointment status
 
-![CareFlow Appointments](screenshots/appointmentsandcancel.png)
+![CareFlow Appointments](screenshots/appoinmentsandcancel.png)
 
 ---
 
